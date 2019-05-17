@@ -1,0 +1,43 @@
+<!doctype html>
+  <html>
+     <head>
+	<meta charset="utf-8">
+	<title>Ðóçþìå</title>
+	<link rel ="stylesheet" type="text/css" href="css/styles.css">
+     </head>
+     <body>
+	<img class="photo" src="images/Olha.jpg" alt>
+	<h1>Selina Olha</h1>
+	<h2>Manual QA engineer</h2>
+	<hr>
+	   <blockquote>
+	     <p>
+	      "Location: Kyiv, Ukraine"
+	      <br>
+	      "Date of birth: 21/11/1981"
+	      <br>
+	      "Cell. +38 067-997-13-59"
+	      <br>
+	      "Skype: Ledyolga2014"
+	      <br>
+	      "E-mail:ledyolga@ukr.net"
+	    </p>
+          </blockquote>
+	<h2>Executive summary</h2>
+	<hr>
+	  <ul>
+		<li>Have 1,5 years of experiens in manual front-end web testing as well;</li>
+		<li>Ability to design, write, execute test cases as well as write bug reports</li>
+		<li>Knowledge in testing process, approaches, and artifacts</li>
+		<li>Strong organizational skills and ability to work in a team;</li>
+		<li>Experience to work with a Scrum/Kanban-type framework;</li>
+	  </ul>
+	<h2>Key Skills</h2> 
+	<hr>
+	 <ul>
+		
+</ul> 
+
+
+
+
